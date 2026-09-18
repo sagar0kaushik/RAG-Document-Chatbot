@@ -262,6 +262,7 @@ Planned enhancements for future versions include:
 
 ### Connect with me
 
-- GitHub: https://github.com/HibaIsmail6
-- LinkedIn: www.linkedin.com/in/hiba-ismail-406958250
+- GitHub: https://github.com/sagar0kaushik
+- LinkedIn: https://www.linkedin.com/in/sagar-kaushik-21a833298/
+  
 
